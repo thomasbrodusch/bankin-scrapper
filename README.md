@@ -1,7 +1,7 @@
 ![Bankin Logo](http://parisfintechforum.com/system/companies/logos/000/000/389/transparent/Logo-Bankin-%281%29.png?1481539240)
 [> Have a look on Bankin' Website !](https://bankin.com/)
 # Bankin' Scrapper
-This is a PoC (Proof Of Concept) of Bankin' web scrapping back-end service.
+This is a PoC (Proof Of Concept) of Bankin' web scrapping back-end service on bank BNP Paribas demo site.
 ![Demo](/images/bankin-scrapper.gif)
 
 ### Stack
