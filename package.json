@@ -1,0 +1,18 @@
+{
+  "name": "bankin",
+  "version": "1.0.0",
+  "description": "Test technique pour Bankin",
+  "scripts": {
+    "start": "casperjs ./src/main.js",
+    "test-login": "casperjs test ./src/tests/bnpparibas/login.js",
+    "test-account": "casperjs test ./src/tests/bnpparibas/account.js",
+    "tests": "npm run test-login && npm run test-account"
+  },
+  "main": "./src/main.js",
+  "author": "Thomas Brodusch",
+  "license": "MIT",
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "phantomjs-prebuilt": "^2.1.14"
+  }
+}
